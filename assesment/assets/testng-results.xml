@@ -2,20 +2,20 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-15T05:00:34Z" name="Test Suite for Buildout" finished-at="2024-07-15T05:00:46Z" duration-ms="11177">
+  <suite started-at="2024-07-15T05:35:02Z" name="Test Suite for Buildout" finished-at="2024-07-15T05:35:17Z" duration-ms="15127">
     <groups>
     </groups>
-    <test started-at="2024-07-15T05:00:34Z" name="Test Cases for Buildout" finished-at="2024-07-15T05:00:46Z" duration-ms="11177">
+    <test started-at="2024-07-15T05:35:02Z" name="Test Cases for Buildout" finished-at="2024-07-15T05:35:17Z" duration-ms="15127">
       <class name="demo.TestCases">
-        <test-method is-config="true" signature="startBrowser()[pri:0, instance:demo.TestCases@58fb7731]" started-at="2024-07-15T10:30:34Z" name="startBrowser" finished-at="2024-07-15T10:30:37Z" duration-ms="2993" status="PASS">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:demo.TestCases@58fb7731]" started-at="2024-07-15T11:05:02Z" name="startBrowser" finished-at="2024-07-15T11:05:07Z" duration-ms="5682" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startBrowser -->
-        <test-method signature="testCase01()[pri:0, instance:demo.TestCases@58fb7731]" started-at="2024-07-15T10:30:37Z" name="testCase01" finished-at="2024-07-15T10:30:45Z" duration-ms="7458" status="PASS">
+        <test-method signature="testCase01()[pri:0, instance:demo.TestCases@58fb7731]" started-at="2024-07-15T11:05:07Z" name="testCase01" finished-at="2024-07-15T11:05:16Z" duration-ms="8624" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase01 -->
-        <test-method is-config="true" signature="endTest()[pri:0, instance:demo.TestCases@58fb7731]" started-at="2024-07-15T10:30:45Z" name="endTest" finished-at="2024-07-15T10:30:46Z" duration-ms="725" status="PASS">
+        <test-method is-config="true" signature="endTest()[pri:0, instance:demo.TestCases@58fb7731]" started-at="2024-07-15T11:05:16Z" name="endTest" finished-at="2024-07-15T11:05:17Z" duration-ms="817" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
